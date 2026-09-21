@@ -1,7 +1,10 @@
-<h3>Library Management System | Python, SQL
+**Library Management System**
 
+**Project Overview:**
+A database-driven application developed using **Python and SQL** to efficiently manage library books and maintain organized book records. The system helps streamline basic library operations such as storing, retrieving, updating, and managing book information.
 
-* Developed a **Library Management System** using Python and SQL to efficiently manage and maintain book records in a structured database.
-* Implemented functionality to **store, retrieve, update, and organize book information**, improving the efficiency of library record management.
-* Utilized **SQL database operations** with Python to enable reliable data storage and easy access to library resources.
-</h3>
+**Key Features:**
+
+* Developed using **Python and SQL**.
+* Managed and maintained book records through a structured database.
+* Implemented CRUD operations for efficient data management.
